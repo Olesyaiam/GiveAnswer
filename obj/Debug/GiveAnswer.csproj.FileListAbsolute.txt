@@ -1,0 +1,14 @@
+C:\Users\Olesya\source\repos\GiveAnswer\GiveAnswer\bin\Debug\Config.json
+C:\Users\Olesya\source\repos\GiveAnswer\GiveAnswer\bin\Debug\GiveAnswer.exe.config
+C:\Users\Olesya\source\repos\GiveAnswer\GiveAnswer\bin\Debug\GiveAnswer.exe
+C:\Users\Olesya\source\repos\GiveAnswer\GiveAnswer\bin\Debug\GiveAnswer.pdb
+C:\Users\Olesya\source\repos\GiveAnswer\GiveAnswer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Olesya\source\repos\GiveAnswer\GiveAnswer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Olesya\source\repos\GiveAnswer\GiveAnswer\obj\Debug\GiveAnswer.csprojAssemblyReference.cache
+C:\Users\Olesya\source\repos\GiveAnswer\GiveAnswer\obj\Debug\GiveAnswer.Properties.Resources.resources
+C:\Users\Olesya\source\repos\GiveAnswer\GiveAnswer\obj\Debug\GiveAnswer.csproj.GenerateResource.cache
+C:\Users\Olesya\source\repos\GiveAnswer\GiveAnswer\obj\Debug\GiveAnswer.csproj.CoreCompileInputs.cache
+C:\Users\Olesya\source\repos\GiveAnswer\GiveAnswer\obj\Debug\GiveAnswer.csproj.CopyComplete
+C:\Users\Olesya\source\repos\GiveAnswer\GiveAnswer\obj\Debug\GiveAnswer.exe
+C:\Users\Olesya\source\repos\GiveAnswer\GiveAnswer\obj\Debug\GiveAnswer.pdb
+C:\Users\Olesya\source\repos\GiveAnswer\GiveAnswer\obj\Debug\GiveAnswer.Form1.resources
